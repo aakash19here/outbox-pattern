@@ -1,0 +1,9 @@
+.git
+.gitignore
+bin/
+out/
+dist/
+build/
+*.md
+!go.mod
+!go.sum
